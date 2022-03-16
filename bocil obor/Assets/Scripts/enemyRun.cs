@@ -8,7 +8,8 @@ public class enemyRun : MonoBehaviour
 {
     public GameObject obor;
     public AIPath aipath;
-    private float dist;
+    private float distx;
+    private float disty;
     public Light2D lt;
     private Color changecolor;
 
@@ -21,13 +22,13 @@ public class enemyRun : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        dist = (obor.transform.position.x - transform.position.x);
-        if (dist <= 6 && dist >= -6)
+        distx = (obor.transform.position.x - transform.position.x);
+        disty = (obor.transform.position.y - transform.position.y);
+        if ((distx <= 3 && distx >= -3) && (disty <= 3 && disty >= -3))
         {
             aipath.maxSpeed = 0.5f;
             changecolor = new Color32(224, 129, 117, 255);
             lt.color = changecolor;
-
         }
         else
         {
