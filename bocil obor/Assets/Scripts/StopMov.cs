@@ -18,7 +18,7 @@ public class StopMov : MonoBehaviour
     private void Update()
     {
         dist = (obor.transform.position.x - transform.position.x);
-        if (dist <= 2 && dist >= -2)
+        if (dist <= 3 && dist >= -3)
         {
             aipath.maxSpeed = 0.7f;
         } else
