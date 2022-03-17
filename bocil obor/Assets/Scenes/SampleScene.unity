@@ -662,7 +662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a860c8e0658834c4db05036221ddd3e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  panSpeed: 1
+  panSpeed: 5
   panBorder: 1
 --- !u!1 &661758946
 GameObject:
@@ -788,9 +788,10 @@ GameObject:
   - component: {fileID: 703139687}
   - component: {fileID: 703139686}
   - component: {fileID: 703139692}
+  - component: {fileID: 703139693}
   m_Layer: 0
   m_Name: player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -889,12 +890,12 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.014570497, y: -0.027796421}
   serializedVersion: 2
-  m_Radius: 0.99999994
+  m_Radius: 0.7099291
 --- !u!212 &703139690
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -954,7 +955,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 703139685}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.94, y: -10.35, z: 0}
+  m_LocalPosition: {x: 2.55, y: -10.35, z: 0}
   m_LocalScale: {x: 0.4766, y: 0.3457, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -974,6 +975,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   obor: {fileID: 746912768}
   aipath: {fileID: 703139687}
+--- !u!114 &703139693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 703139685}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509b735d626b42b43b9d3de175136f5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &746912768
 GameObject:
   m_ObjectHideFlags: 0
@@ -1755,7 +1768,7 @@ GameObject:
   - component: {fileID: 1415282587}
   m_Layer: 0
   m_Name: PF
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2096,7 +2109,7 @@ GameObject:
   - component: {fileID: 2020707024}
   m_Layer: 0
   m_Name: enemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2198,9 +2211,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.010081389, y: -0.0000013793381}
   serializedVersion: 2
-  m_Radius: 0.99999994
+  m_Radius: 0.727807
 --- !u!212 &2020707022
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2260,7 +2273,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2020707017}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10, y: 3.7, z: 0}
+  m_LocalPosition: {x: -1.4, y: -9.8, z: 0}
   m_LocalScale: {x: 0.4766, y: 0.3457, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
