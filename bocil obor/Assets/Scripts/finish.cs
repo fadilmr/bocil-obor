@@ -11,9 +11,9 @@ public class finish : MonoBehaviour
     {
         distx = (player.transform.position.x - transform.position.x);
         disty = (player.transform.position.y - transform.position.y);
-        if (distx <= 0.5 && distx >= -0.5 && disty <= 0.5 && disty >= -0.5)
+        if (distx <= 1.5 && distx >= -1.5 && disty <= 1.5 && disty >= -1.5)
         {
-            Debug.Log("Yey Menang!");
+            FindObjectOfType<gameManager>().endGame();
         }
     }
 }
