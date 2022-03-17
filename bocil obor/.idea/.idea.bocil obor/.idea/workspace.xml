@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1b83fd6-f375-4bac-ba2e-80831876c3e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FollowingCameraLight.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FollowingCameraLight.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.bocil obor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.bocil obor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerDeath.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerDeath.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1647414820855</updated>
       <workItem from="1647414835078" duration="27000" />
+      <workItem from="1647437751962" duration="5455000" />
+      <workItem from="1647490107288" duration="3939000" />
     </task>
     <servers />
   </component>
