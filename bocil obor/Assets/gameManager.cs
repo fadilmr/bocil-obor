@@ -9,18 +9,15 @@ public class gameManager : MonoBehaviour
     public bool over = false;
     public endGameBG gameoverscreen;
     public Light2D lt;
+    public winBG winscreen;
     // Start is called before the first frame update
     public void winGame()
     {
-        if (win == false)
-        {
-            win = true;
-            Debug.Log("You Win");
-        }
+        winscreen.win();
     }
     public void lose()
     {
         gameoverscreen.setup();
-        lt.pointLightOuterRadius = 8f;
+        lt.pointLightOuterRadius = 10f;
     }
 }
