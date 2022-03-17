@@ -1,17 +1,26 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Experimental.Rendering.Universal;
 
 public class gameManager : MonoBehaviour
 {
-    public bool gameHasEnded = false;
+    public bool win = false;
+    public bool over = false;
+    public endGameBG gameoverscreen;
+    public Light2D lt;
     // Start is called before the first frame update
-    public void endGame()
+    public void winGame()
     {
-        if (gameHasEnded == false)
+        if (win == false)
         {
-            gameHasEnded = true;
-            Debug.Log("Game Over");
+            win = true;
+            Debug.Log("You Win");
         }
+    }
+    public void lose()
+    {
+        gameoverscreen.setup();
+        lt.pointLightOuterRadius = 8f;
     }
 }

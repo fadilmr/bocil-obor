@@ -13,7 +13,7 @@ public class finish : MonoBehaviour
         disty = (player.transform.position.y - transform.position.y);
         if (distx <= 1.5 && distx >= -1.5 && disty <= 1.5 && disty >= -1.5)
         {
-            FindObjectOfType<gameManager>().endGame();
+            FindObjectOfType<gameManager>().winGame();
         }
     }
 }
