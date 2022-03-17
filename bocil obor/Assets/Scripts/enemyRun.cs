@@ -24,7 +24,7 @@ public class enemyRun : MonoBehaviour
     {
         distx = (obor.transform.position.x - transform.position.x);
         disty = (obor.transform.position.y - transform.position.y);
-        if ((distx <= 4 && distx >= -4) && (disty <= 4 && disty >= -4))
+        if ((distx <= 5 && distx >= -5) && (disty <= 5 && disty >= -5))
         {
             aipath.maxSpeed = 0.7f;
             changecolor = new Color32(224, 129, 117, 255);
