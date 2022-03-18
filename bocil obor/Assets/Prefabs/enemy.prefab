@@ -199,6 +199,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6c47c5bf4c0f704dbc30593ade2be2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obor: {fileID: 0}
+  obor: {fileID: 7244391113989462799, guid: f490538a129824641aaca8172e26f006, type: 3}
   aipath: {fileID: 1822817543720672478}
-  lt: {fileID: 0}
+  lt: {fileID: 7244391113989462798, guid: f490538a129824641aaca8172e26f006, type: 3}

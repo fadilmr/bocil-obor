@@ -201,7 +201,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94489aa99f2fd8a42a7f5ea490eae8ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obor: {fileID: 0}
+  obor: {fileID: 7244391113989462799, guid: f490538a129824641aaca8172e26f006, type: 3}
   aipath: {fileID: 4657734901913456488}
   animator: {fileID: 4657734901913456481}
   updown: 0
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 509b735d626b42b43b9d3de175136f5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  compareObject: {fileID: 0}
+  compareObject: {fileID: 3626605279144909219, guid: c8e68e5c8e3335247a670658f2c915b2, type: 3}
 --- !u!95 &4657734901913456481
 Animator:
   serializedVersion: 3
