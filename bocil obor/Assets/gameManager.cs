@@ -14,10 +14,12 @@ public class gameManager : MonoBehaviour
     public void winGame()
     {
         winscreen.win();
+        Time.timeScale = 0f;
     }
     public void lose()
     {
         gameoverscreen.setup();
         lt.pointLightOuterRadius = 10f;
+        Time.timeScale = 0f;
     }
 }
