@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 7c8beb6c5f2942f4a8f8ce8b20547cd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -181130411751915151
+    second: Goa tileset_0
+  - first:
+      213: 2862525424028515342
+    second: Goa tileset_1
+  - first:
+      213: 9205546540616546669
+    second: Goa tileset_2
+  - first:
+      213: -1126716982853588969
+    second: Goa tileset_3
+  - first:
+      213: 67876711859184439
+    second: Goa tileset_4
+  - first:
+      213: 2843727832489152852
+    second: Goa tileset_5
+  - first:
+      213: -2102780856847739831
+    second: Goa tileset_6
+  - first:
+      213: -4853398589962632597
+    second: Goa tileset_7
+  - first:
+      213: 8862210632689869342
+    second: Goa tileset_8
+  - first:
+      213: 584491225719785725
+    second: Goa tileset_9
+  - first:
+      213: 6669042929782552350
+    second: Goa tileset_10
+  - first:
+      213: -1045389156397247368
+    second: Goa tileset_11
+  - first:
+      213: 6832351112212007971
+    second: Goa tileset_12
+  - first:
+      213: 4056510310463607884
+    second: Goa tileset_13
+  - first:
+      213: -1531093590635917127
+    second: Goa tileset_14
+  - first:
+      213: -8317656788056652673
+    second: Goa tileset_15
+  - first:
+      213: -1867673430271830158
+    second: Goa tileset_16
+  - first:
+      213: 3110471717385155883
+    second: Goa tileset_17
+  - first:
+      213: 6771253689479326920
+    second: Goa tileset_18
+  - first:
+      213: -6802276562439403917
+    second: Goa tileset_19
+  - first:
+      213: -5999727871312841160
+    second: Goa tileset_20
+  - first:
+      213: 2262517474850647738
+    second: Goa tileset_21
+  - first:
+      213: 663729301522194219
+    second: Goa tileset_22
+  - first:
+      213: -6719042581824339217
+    second: Goa tileset_23
+  - first:
+      213: 925728889507899071
+    second: Goa tileset_24
+  - first:
+      213: -651812393436145261
+    second: Goa tileset_25
+  - first:
+      213: -6217376672802987715
+    second: Goa tileset_26
+  - first:
+      213: -4146706508680542826
+    second: Goa tileset_27
+  - first:
+      213: -5398729447415408745
+    second: Goa tileset_28
+  - first:
+      213: 6181063992749909989
+    second: Goa tileset_29
+  - first:
+      213: -821634549271215022
+    second: Goa tileset_30
+  - first:
+      213: -5223790233976720739
+    second: Goa tileset_31
+  - first:
+      213: 7461884162880180915
+    second: Goa tileset_34
+  - first:
+      213: 8761543095506657273
+    second: Goa tileset_35
+  - first:
+      213: -485817460036520072
+    second: Goa tileset_36
+  - first:
+      213: -2475334408115285644
+    second: Goa tileset_37
+  - first:
+      213: -5783163661472506388
+    second: Goa tileset_38
+  - first:
+      213: -2540233185215043028
+    second: Goa tileset_39
+  - first:
+      213: -8373592497554774285
+    second: Goa tileset_32
+  - first:
+      213: 4799140263420658574
+    second: Goa tileset_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goa tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171c185a9de7c7df0800000000000000
+      internalID: -181130411751915151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c7eb3f4bbb9b720800000000000000
+      internalID: 2862525424028515342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6976cc3ecba0cf70800000000000000
+      internalID: 9205546540616546669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718ac9aafd81d50f0800000000000000
+      internalID: -1126716982853588969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73363e2828521f000800000000000000
+      internalID: 67876711859184439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451586d9563f67720800000000000000
+      internalID: 2843727832489152852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_6
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9445913a3fb61d2e0800000000000000
+      internalID: -2102780856847739831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6245e362b345acb0800000000000000
+      internalID: -4853398589962632597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e126b2ecd95ecfa70800000000000000
+      internalID: 8862210632689869342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df84c5b4ca78c1800800000000000000
+      internalID: 584491225719785725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17f485e5333d8c50800000000000000
+      internalID: 6669042929782552350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87495e8d9180e71f0800000000000000
+      internalID: -1045389156397247368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c4420232361de50800000000000000
+      internalID: 6832351112212007971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_13
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4494e292ae9b4830800000000000000
+      internalID: 4056510310463607884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0d44ccd7670cae0800000000000000
+      internalID: -1531093590635917127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f744448583fb19c80800000000000000
+      internalID: -8317656788056652673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277563819e0b416e0800000000000000
+      internalID: -1867673430271830158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2534a60c8d9a2b20800000000000000
+      internalID: 3110471717385155883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cce77dda5358fd50800000000000000
+      internalID: 6771253689479326920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37685d7a1857991a0800000000000000
+      internalID: -6802276562439403917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8363369f94facbca0800000000000000
+      internalID: -5999727871312841160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_21
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe2692f7a3166f10800000000000000
+      internalID: 2262517474850647738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 280
+        width: 128
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f9f3c784a063900800000000000000
+      internalID: 663729301522194219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 280
+        width: 93
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe203afee5a21c2a0800000000000000
+      internalID: -6719042581824339217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 291
+        width: 69
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb66f613589d8dc00800000000000000
+      internalID: 925728889507899071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_25
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 320
+        width: 105
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3999a05e41c44f6f0800000000000000
+      internalID: -651812393436145261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_26
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 316
+        width: 25
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3127ce6bd077b9a0800000000000000
+      internalID: -6217376672802987715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_27
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 97
+        width: 152
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695cb4a8660f376c0800000000000000
+      internalID: -4146706508680542826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 173
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7971d58db2cd315b0800000000000000
+      internalID: -5398729447415408745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 123
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7e0d5e3fc87c550800000000000000
+      internalID: 6181063992749909989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_30
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 133
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254408b0bb7f894f0800000000000000
+      internalID: -821634549271215022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_31
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 101
+        width: 360
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92b9a2857e5187b0800000000000000
+      internalID: -5223790233976720739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_34
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b216938c10fd8760800000000000000
+      internalID: 7461884162880180915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_35
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff53f35601479970800000000000000
+      internalID: 8761543095506657273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_36
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87737d418970249f0800000000000000
+      internalID: -485817460036520072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 109
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4719cff7878d5add0800000000000000
+      internalID: -2475334408115285644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_38
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 305
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceddbf75a431ebfa0800000000000000
+      internalID: -5783163661472506388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_39
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 358
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a299470674fbcd0800000000000000
+      internalID: -2540233185215043028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_32
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 480
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f62f591df50bcb80800000000000000
+      internalID: -8373592497554774285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goa tileset_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 200
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83867484a8f99240800000000000000
+      internalID: 4799140263420658574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
