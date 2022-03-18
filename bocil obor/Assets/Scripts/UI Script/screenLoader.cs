@@ -23,4 +23,34 @@ public class screenLoader : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
+
+    public void lvlSelect()
+    {
+        SceneManager.LoadScene("LevelSelection");
+    }
+
+    public void lvl1()
+    {
+        SceneManager.LoadScene("Scene1");
+    }
+
+    public void lvl2()
+    {
+        SceneManager.LoadScene("Scene2");
+    }
+
+    public void lvl3()
+    {
+        SceneManager.LoadScene("Scene3");
+    }
+
+    public void lvl4()
+    {
+        SceneManager.LoadScene("Scene4");
+    }
+
+    public void lvl5()
+    {
+        SceneManager.LoadScene("Scene5");
+    }
 }
