@@ -10,6 +10,8 @@ public class StopMov : MonoBehaviour
     private float disty;
     public AIPath aipath;
     public Animator animator;
+    public float updown;
+    public float leftright;
     private void Start()
     {
         aipath.maxSpeed = 0f;
@@ -28,13 +30,10 @@ public class StopMov : MonoBehaviour
             aipath.maxSpeed = 0f;
         }
 
-        if (aipath.desiredVelocity.x >= 0.01f)
-        {
-            transform.localScale = new Vector3(-1f, 1f, 1f);
-        } else if (aipath.desiredVelocity.x <= 0.01f)
-        {
-            transform.localScale = new Vector3(1f, 1f, 1f);
-        }
+        updown = aipath.desiredVelocity.y;
+        leftright = aipath.desiredVelocity.x;
         animator.SetFloat("speed", aipath.maxSpeed);
+        animator.SetFloat("Vertical", updown);
+        animator.SetFloat("Horizontal", leftright);
     }
 }
