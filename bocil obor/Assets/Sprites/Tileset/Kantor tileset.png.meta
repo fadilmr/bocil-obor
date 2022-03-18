@@ -1,7 +1,169 @@
 fileFormatVersion: 2
 guid: 545db4492e4574d4db1cd491524c7953
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3839690770999254795
+    second: Kantor tileset_0
+  - first:
+      213: -1841865391566747013
+    second: Kantor tileset_1
+  - first:
+      213: -7892015640433688750
+    second: Kantor tileset_2
+  - first:
+      213: -2482480177298104901
+    second: Kantor tileset_3
+  - first:
+      213: 5176864395007477697
+    second: Kantor tileset_4
+  - first:
+      213: 5019023933430273340
+    second: Kantor tileset_5
+  - first:
+      213: 4335217936700865153
+    second: Kantor tileset_6
+  - first:
+      213: 3407350630550535596
+    second: Kantor tileset_7
+  - first:
+      213: 1834723807399120327
+    second: Kantor tileset_8
+  - first:
+      213: -6123576379859155831
+    second: Kantor tileset_9
+  - first:
+      213: 2394268405610370035
+    second: Kantor tileset_10
+  - first:
+      213: -1320440753637890144
+    second: Kantor tileset_11
+  - first:
+      213: 811533986126629917
+    second: Kantor tileset_12
+  - first:
+      213: 6534637811827396799
+    second: Kantor tileset_13
+  - first:
+      213: -6151328475617317885
+    second: Kantor tileset_14
+  - first:
+      213: -97400982675623065
+    second: Kantor tileset_15
+  - first:
+      213: -3229247894291048843
+    second: Kantor tileset_16
+  - first:
+      213: -3170131398186367884
+    second: Kantor tileset_17
+  - first:
+      213: -1151263739128808775
+    second: Kantor tileset_18
+  - first:
+      213: 5056567894401966959
+    second: Kantor tileset_19
+  - first:
+      213: -8824541895991404537
+    second: Kantor tileset_20
+  - first:
+      213: -2260915675665668094
+    second: Kantor tileset_21
+  - first:
+      213: 6470490605927676086
+    second: Kantor tileset_22
+  - first:
+      213: 9007312150295193766
+    second: Kantor tileset_23
+  - first:
+      213: 2674451185093214780
+    second: Kantor tileset_24
+  - first:
+      213: -8669644598022171478
+    second: Kantor tileset_25
+  - first:
+      213: 5213573929004104379
+    second: Kantor tileset_26
+  - first:
+      213: 8898538963915203103
+    second: Kantor tileset_27
+  - first:
+      213: -6757842508889070573
+    second: Kantor tileset_28
+  - first:
+      213: 484770157878161368
+    second: Kantor tileset_29
+  - first:
+      213: -8321230732553803386
+    second: Kantor tileset_30
+  - first:
+      213: -8137075327236832883
+    second: Kantor tileset_31
+  - first:
+      213: -3793631824446190205
+    second: Kantor tileset_32
+  - first:
+      213: -1733252331862716047
+    second: Kantor tileset_33
+  - first:
+      213: -6751237892838750411
+    second: Kantor tileset_34
+  - first:
+      213: 3235098860934293181
+    second: Kantor tileset_35
+  - first:
+      213: 1708088557279156321
+    second: Kantor tileset_36
+  - first:
+      213: 5422684386202487222
+    second: Kantor tileset_37
+  - first:
+      213: -3580635757908768572
+    second: Kantor tileset_38
+  - first:
+      213: 8435028506516895965
+    second: Kantor tileset_39
+  - first:
+      213: 1687698417040009022
+    second: Kantor tileset_40
+  - first:
+      213: -3227633283134063897
+    second: Kantor tileset_41
+  - first:
+      213: -7816692391131148128
+    second: Kantor tileset_42
+  - first:
+      213: 1438899209931278403
+    second: Kantor tileset_43
+  - first:
+      213: 473315403745898834
+    second: Kantor tileset_44
+  - first:
+      213: -4340637818243772121
+    second: Kantor tileset_45
+  - first:
+      213: -685469213704521833
+    second: Kantor tileset_46
+  - first:
+      213: -1557429131504044463
+    second: Kantor tileset_47
+  - first:
+      213: -5971625415276467710
+    second: Kantor tileset_48
+  - first:
+      213: 191044930906513145
+    second: Kantor tileset_49
+  - first:
+      213: 7029326125419275151
+    second: Kantor tileset_50
+  - first:
+      213: 1240717291850894297
+    second: Kantor tileset_51
+  - first:
+      213: -6173582499379932556
+    second: Kantor tileset_52
+  - first:
+      213: -150902710683938908
+    second: Kantor tileset_53
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +194,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,7 +203,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +237,1155 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Kantor tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 203
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f06e3b569da6bac0800000000000000
+      internalID: -3839690770999254795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_1
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 202
+        width: 108
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a049b5f216076e0800000000000000
+      internalID: -1841865391566747013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 333
+        width: 130
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f7f16b69de97290800000000000000
+      internalID: -7892015640433688750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_3
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 439
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd92367e657c8dd0800000000000000
+      internalID: -2482480177298104901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_4
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 399
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7c9c23dbae7d740800000000000000
+      internalID: 5176864395007477697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c359b4feca727a540800000000000000
+      internalID: 5019023933430273340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_6
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18af4f49eb9c92c30800000000000000
+      internalID: 4335217936700865153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadfa277857594f20800000000000000
+      internalID: 3407350630550535596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd0af0059f367910800000000000000
+      internalID: 1834723807399120327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984c5830abfa40ba0800000000000000
+      internalID: -6123576379859155831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3d855fd662a3120800000000000000
+      internalID: 2394268405610370035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e67c612adcade0800000000000000
+      internalID: -1320440753637890144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c0c365cd5234b00800000000000000
+      internalID: 811533986126629917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0dec5c772bfaa50800000000000000
+      internalID: 6534637811827396799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ca512b75712aaa0800000000000000
+      internalID: -6151328475617317885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76378d28256f5aef0800000000000000
+      internalID: -97400982675623065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5769a1146286f23d0800000000000000
+      internalID: -3229247894291048843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4740ac71a4e6104d0800000000000000
+      internalID: -3170131398186367884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba707a9ab3e500f0800000000000000
+      internalID: -1151263739128808775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_19
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 486
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63697885b98c2640800000000000000
+      internalID: 5056567894401966959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70851e766ede88580800000000000000
+      internalID: -8824541895991404537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208e5dcfb2d9f90e0800000000000000
+      internalID: -2260915675665668094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 280
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b832d88ceccbc950800000000000000
+      internalID: 6470490605927676086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 280
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8a76b8da6600d70800000000000000
+      internalID: 9007312150295193766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 280
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c328a98de2f8d1520800000000000000
+      internalID: 2674451185093214780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 280
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4110efb2c3fa780800000000000000
+      internalID: -8669644598022171478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 416
+        width: 129
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaf680add55a5840800000000000000
+      internalID: 5213573929004104379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12632c8a06fd7b70800000000000000
+      internalID: 8898538963915203103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314e1a1fa025732a0800000000000000
+      internalID: -6757842508889070573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfa902e3ef3ab600800000000000000
+      internalID: 484770157878161368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689211c8cbc058c80800000000000000
+      internalID: -8321230732553803386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8104791a1d431f80800000000000000
+      internalID: -8137075327236832883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_32
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 213
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d844784ff4a5bc0800000000000000
+      internalID: -3793631824446190205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_33
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 196
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1719435ff2042f7e0800000000000000
+      internalID: -1733252331862716047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_34
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 91
+        width: 174
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5378033f7e8ce42a0800000000000000
+      internalID: -6751237892838750411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_35
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 361
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db66243164165ec20800000000000000
+      internalID: 3235098860934293181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_36
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 305
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16898853e7954b710800000000000000
+      internalID: 1708088557279156321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_37
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 288
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b908a8f7be314b40800000000000000
+      internalID: 5422684386202487222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_38
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 284
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c849cbcfb60f4ec0800000000000000
+      internalID: -3580635757908768572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_39
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 280
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8bb396cbd3f0570800000000000000
+      internalID: 8435028506516895965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_40
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 281
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37a8abb4c8eb6710800000000000000
+      internalID: 1687698417040009022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_41
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 195
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaf09531a42533d0800000000000000
+      internalID: -3227633283134063897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_42
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 159
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a011245fa7858390800000000000000
+      internalID: -7816692391131148128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_43
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 90
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3484b83353ff7f310800000000000000
+      internalID: 1438899209931278403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_44
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 89
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251befa1add819600800000000000000
+      internalID: 473315403745898834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_45
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 90
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72114f8e6e4f2c3c0800000000000000
+      internalID: -4340637818243772121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_46
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 484
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797fca4c169bc76f0800000000000000
+      internalID: -685469213704521833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1563bddd476e26ae0800000000000000
+      internalID: -1557429131504044463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a60c6e256802da0800000000000000
+      internalID: -5971625415276467710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe52da3a5ab6a200800000000000000
+      internalID: 191044930906513145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f832dfb3ede2d8160800000000000000
+      internalID: 7029326125419275151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_51
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db0577adc9e73110800000000000000
+      internalID: 1240717291850894297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_52
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 488
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47214e40d67035aa0800000000000000
+      internalID: -6173582499379932556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kantor tileset_53
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 488
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af4a0eb8c2e7edf0800000000000000
+      internalID: -150902710683938908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
