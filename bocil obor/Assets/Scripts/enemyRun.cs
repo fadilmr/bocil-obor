@@ -42,6 +42,14 @@ public class enemyRun : MonoBehaviour
             lt.color = changecolor;
             audio.Stop();
         }
+
+        if (aipath.desiredVelocity.x > 0)
+        {
+            transform.localScale = new Vector3(1f, 1f, 1f);
+        } else if (aipath.desiredVelocity.x < 0)
+        {
+            transform.localScale = new Vector3(-1f, 1f, 1f);
+        }
         animator.SetFloat("speed", aipath.maxSpeed);
     }
 }

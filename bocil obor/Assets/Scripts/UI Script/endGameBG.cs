@@ -15,7 +15,7 @@ public class endGameBG : MonoBehaviour
 
     public void restartButton()
     {
-        SceneManager.LoadScene("LevelTesting");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
 }

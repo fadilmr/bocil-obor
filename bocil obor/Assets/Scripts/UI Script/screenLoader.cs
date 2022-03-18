@@ -10,8 +10,17 @@ public class screenLoader : MonoBehaviour
         Application.Quit();
     }
 
+    public void startgame()
+    {
+        SceneManager.LoadScene("Scene1");
+    }
+
     public void mainMenu()
     {
         SceneManager.LoadScene("Main Menu");
+    }
+    public void nextLevel()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }

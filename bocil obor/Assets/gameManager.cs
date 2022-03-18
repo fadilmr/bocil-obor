@@ -21,5 +21,6 @@ public class gameManager : MonoBehaviour
         gameoverscreen.setup();
         lt.pointLightOuterRadius = 10f;
         Time.timeScale = 0f;
+
     }
 }
